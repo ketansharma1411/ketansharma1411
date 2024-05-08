@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ketan Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align='right' margin-left="1.5rem" border-radius="50px" width="400" alt='img' src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+<div  >
+<img  align='right'  border-radius="50px" width="400" alt='img' src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansharma1411&label=Profile%20views&color=0e75b6&style=flat" alt="ketansharma1411" /> </p>
 
 - 🔭 I’m currently working on [Food delivery application](https://github.com/ketansharma1411/food_delivery.git)
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ketansharma1411@gmail.com**
 
