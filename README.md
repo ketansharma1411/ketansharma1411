@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <div  >
-<img  align='right'  border-radius="50px" width="400" alt='img' src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img  align='right'  border-radius="50px" width="400" alt='img' src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansharma1411&label=Profile%20views&color=0e75b6&style=flat" alt="ketansharma1411" /> </p>
