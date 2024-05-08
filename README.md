@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<img align='right' margin-left="1.5rem" border-radius="50px" width="400" alt='img' src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansharma1411&label=Profile%20views&color=0e75b6&style=flat" alt="ketansharma1411" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **ketansharma1411@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xUWcCmcJpz0pzprmuOuWVaBdAU-jwm4R/view?usp=drive_link](https://drive.google.com/file/d/1xUWcCmcJpz0pzprmuOuWVaBdAU-jwm4R/view?usp=drive_link)
+- 📄 Know about my experiences [Ketan_Portfolio](https://drive.google.com/file/d/1xUWcCmcJpz0pzprmuOuWVaBdAU-jwm4R/view?usp=drive_link)
 
 - ⚡ Fun fact **I am next level Foodie**
 
