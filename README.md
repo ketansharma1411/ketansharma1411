@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ketansharma1411@gmail.com**
 
-- 📄 Know about my experiences [Ketan_Portfolio]([https://drive.google.com/file/d/1xUWcCmcJpz0pzprmuOuWVaBdAU-jwm4R/view?usp=drive_link](https://drive.google.com/file/d/1ZTDKEvC4I9DzH9JbHnCTJ860veejVZCc/view?usp=sharing))
+- 📄 Know about my experiences [Ketan_Portfolio](https://drive.google.com/file/d/1ZTDKEvC4I9DzH9JbHnCTJ860veejVZCc/view?usp=sharing)
 
 - ⚡ Fun fact **I am next level Foodie**
 
