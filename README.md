@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 <p align="right" style=" margin-top: -20px">
-  <img align="right" alt="Coding" width="260" style=" margin-top: -7px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="235" style=" margin-top: -7px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 
